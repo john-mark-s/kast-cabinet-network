@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T18:16:44.616289+00:00",
+  "lastUpdated": "2026-03-11T19:02:55.448930+00:00",
   "phase": 1,
   "nodeCount": 64,
   "edgeCount": 45,
@@ -25,10 +25,10 @@
     }
   },
   "flagCounts": {
-    "CORPORATE_RESTRUCTURING": 3,
     "GOV_CONTRACTOR": 3,
     "COLLUSION_LINK": 6,
     "REVOLVING_DOOR": 2,
-    "ACTIVE_CONTRACT": 1
+    "ACTIVE_CONTRACT": 1,
+    "CORPORATE_RESTRUCTURING": 3
   }
 }

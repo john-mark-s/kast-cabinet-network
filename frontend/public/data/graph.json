@@ -8,11 +8,11 @@
       "party": "Independiente",
       "ministry": "Ministerio de Hacienda",
       "flags": [
-        "CORPORATE_RESTRUCTURING",
         "GOV_CONTRACTOR",
         "COLLUSION_LINK",
         "REVOLVING_DOOR",
-        "ACTIVE_CONTRACT"
+        "ACTIVE_CONTRACT",
+        "CORPORATE_RESTRUCTURING"
       ],
       "sources": [
         "Wikipedia - Jorge Quiroz",
@@ -66,8 +66,8 @@
       "label": "Jorge Quiroz C. y Consultores Asociados SA (now QA Consultores)",
       "rut": "96.953.120-8",
       "flags": [
-        "CORPORATE_RESTRUCTURING",
-        "GOV_CONTRACTOR"
+        "GOV_CONTRACTOR",
+        "CORPORATE_RESTRUCTURING"
       ],
       "sources": [
         "La Tercera",
@@ -97,8 +97,8 @@
       "label": "QYA Consultores Ltda. (ex Quiroz y Asociados Consultores Ltda.)",
       "rut": "",
       "flags": [
-        "CORPORATE_RESTRUCTURING",
-        "GOV_CONTRACTOR"
+        "GOV_CONTRACTOR",
+        "CORPORATE_RESTRUCTURING"
       ],
       "sources": [
         "La Tercera"
@@ -2084,7 +2084,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-03-11T18:16:44.616289+00:00",
+    "generatedAt": "2026-03-11T19:02:55.448930+00:00",
     "nodeCount": 64,
     "edgeCount": 45,
     "sources": {
