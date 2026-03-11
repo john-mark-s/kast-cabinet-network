@@ -1,0 +1,93 @@
+{
+  "minister": {
+    "id": "fernando-rabat",
+    "type": "person",
+    "label": "Fernando Rabat Celis",
+    "role": "Ministro de Justicia y Derechos Humanos",
+    "party": "Independiente",
+    "ministry": "Ministerio de Justicia",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Académico U. del Desarrollo. Socio fundador Barros & Errázuriz (1988). Decano Derecho U. Finis Terrae."
+  },
+  "nodes": [
+    {
+      "id": "fernando-rabat",
+      "type": "person",
+      "label": "Fernando Rabat Celis",
+      "role": "Ministro de Justicia y Derechos Humanos",
+      "party": "Independiente",
+      "ministry": "Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Académico U. del Desarrollo. Socio fundador Barros & Errázuriz (1988). Decano Derecho U. Finis Terrae."
+    },
+    {
+      "id": "inst-ministerio-de-justicia",
+      "type": "institution",
+      "label": "Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.minjusticia.gob.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-fernando-rabat-inst-ministerio-de-justicia-heads",
+      "source": "fernando-rabat",
+      "target": "inst-ministerio-de-justicia",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": [
+      {
+        "date": "historical",
+        "event": "Miembro del equipo defensor de Pinochet en Caso Riggs (cuentas bancarias secretas EEUU)",
+        "sources": []
+      }
+    ]
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

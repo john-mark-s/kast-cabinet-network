@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Node
+node_modules/
+frontend/dist/
+
+# TypeScript build artifacts
+frontend/tsconfig.*.tsbuildinfo
+
+# Data — raw responses can be large
+data/raw/
+
+# Claude Code local settings (contains local paths)
+.claude/
+
+# OS
+.DS_Store

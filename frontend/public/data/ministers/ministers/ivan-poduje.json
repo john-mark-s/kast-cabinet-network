@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "ivan-poduje",
+    "type": "person",
+    "label": "Iván Poduje Capdeville",
+    "role": "Ministro de Vivienda y Urbanismo",
+    "party": "Independiente",
+    "ministry": "Ministerio de Vivienda",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": ""
+  },
+  "nodes": [
+    {
+      "id": "ivan-poduje",
+      "type": "person",
+      "label": "Iván Poduje Capdeville",
+      "role": "Ministro de Vivienda y Urbanismo",
+      "party": "Independiente",
+      "ministry": "Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-vivienda",
+      "type": "institution",
+      "label": "Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ivan-poduje-inst-ministerio-de-vivienda-heads",
+      "source": "ivan-poduje",
+      "target": "inst-ministerio-de-vivienda",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

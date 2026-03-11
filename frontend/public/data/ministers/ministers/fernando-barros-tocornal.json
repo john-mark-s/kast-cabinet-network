@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "fernando-barros-tocornal",
+    "type": "person",
+    "label": "Fernando Barros Tocornal",
+    "role": "Ministro de Defensa Nacional",
+    "party": "Independiente",
+    "ministry": "Ministerio de Defensa",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Abogado. Integró el equipo defensor de Pinochet (Caso Riggs)."
+  },
+  "nodes": [
+    {
+      "id": "fernando-barros-tocornal",
+      "type": "person",
+      "label": "Fernando Barros Tocornal",
+      "role": "Ministro de Defensa Nacional",
+      "party": "Independiente",
+      "ministry": "Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Abogado. Integró el equipo defensor de Pinochet (Caso Riggs)."
+    },
+    {
+      "id": "inst-ministerio-de-defensa",
+      "type": "institution",
+      "label": "Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-fernando-barros-tocornal-inst-ministerio-de-defensa-heads",
+      "source": "fernando-barros-tocornal",
+      "target": "inst-ministerio-de-defensa",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

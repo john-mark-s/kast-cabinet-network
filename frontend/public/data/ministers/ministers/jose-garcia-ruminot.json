@@ -1,0 +1,99 @@
+{
+  "minister": {
+    "id": "jose-garcia-ruminot",
+    "type": "person",
+    "label": "José García Ruminot",
+    "role": "Ministro Secretario General de la Presidencia",
+    "party": "Renovación Nacional",
+    "ministry": "Ministerio Segpres",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Ficha BCN",
+        "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+      },
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Ex-senador Araucanía (2018-2026). Ex-presidente del Senado (2024-2025). Cargos en dictadura: alcalde de Toltén (1980), Lautaro (1984), Temuco (1986). RN desde 1989."
+  },
+  "nodes": [
+    {
+      "id": "inst-ministerio-segpres",
+      "type": "institution",
+      "label": "Ministerio Segpres",
+      "flags": [],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "jose-garcia-ruminot",
+      "type": "person",
+      "label": "José García Ruminot",
+      "role": "Ministro Secretario General de la Presidencia",
+      "party": "Renovación Nacional",
+      "ministry": "Ministerio Segpres",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Ficha BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-senador Araucanía (2018-2026). Ex-presidente del Senado (2024-2025). Cargos en dictadura: alcalde de Toltén (1980), Lautaro (1984), Temuco (1986). RN desde 1989."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-jose-garcia-ruminot-inst-ministerio-segpres-heads",
+      "source": "jose-garcia-ruminot",
+      "target": "inst-ministerio-segpres",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio Segpres",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

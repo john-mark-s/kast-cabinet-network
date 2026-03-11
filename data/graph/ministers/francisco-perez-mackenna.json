@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "francisco-perez-mackenna",
+    "type": "person",
+    "label": "Francisco Pérez Mackenna",
+    "role": "Ministro de Relaciones Exteriores",
+    "party": "Independiente",
+    "ministry": "Ministerio de RR.EE.",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": ""
+  },
+  "nodes": [
+    {
+      "id": "francisco-perez-mackenna",
+      "type": "person",
+      "label": "Francisco Pérez Mackenna",
+      "role": "Ministro de Relaciones Exteriores",
+      "party": "Independiente",
+      "ministry": "Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-rree",
+      "type": "institution",
+      "label": "Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-francisco-perez-mackenna-inst-ministerio-de-rree-heads",
+      "source": "francisco-perez-mackenna",
+      "target": "inst-ministerio-de-rree",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

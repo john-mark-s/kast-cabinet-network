@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "trinidad-steinert",
+    "type": "person",
+    "label": "Trinidad Steinert Herrera",
+    "role": "Ministra de Seguridad Pública",
+    "party": "Independiente",
+    "ministry": "Ministerio de Seguridad Pública",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Fiscal de la región de Tarapacá. Zona fronteriza clave para inmigración."
+  },
+  "nodes": [
+    {
+      "id": "trinidad-steinert",
+      "type": "person",
+      "label": "Trinidad Steinert Herrera",
+      "role": "Ministra de Seguridad Pública",
+      "party": "Independiente",
+      "ministry": "Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Fiscal de la región de Tarapacá. Zona fronteriza clave para inmigración."
+    },
+    {
+      "id": "inst-ministerio-de-seguridad-pública",
+      "type": "institution",
+      "label": "Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-trinidad-steinert-inst-ministerio-de-seguridad-pública-heads",
+      "source": "trinidad-steinert",
+      "target": "inst-ministerio-de-seguridad-pública",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T19:02:55.448930+00:00"
+}

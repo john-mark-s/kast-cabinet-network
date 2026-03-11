@@ -1,0 +1,95 @@
+{
+  "minister": {
+    "id": "claudio-alvarado",
+    "type": "person",
+    "label": "Claudio Alvarado Andrade",
+    "role": "Ministro del Interior y Seguridad Pública",
+    "party": "UDI",
+    "ministry": "Ministerio del Interior",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en BCN",
+        "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+      },
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Ex-diputado UDI. Ministro Segpres en ambos gobiernos Piñera. Encargado del traspaso de mando Boric→Kast."
+  },
+  "nodes": [
+    {
+      "id": "claudio-alvarado",
+      "type": "person",
+      "label": "Claudio Alvarado Andrade",
+      "role": "Ministro del Interior y Seguridad Pública",
+      "party": "UDI",
+      "ministry": "Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-diputado UDI. Ministro Segpres en ambos gobiernos Piñera. Encargado del traspaso de mando Boric→Kast."
+    },
+    {
+      "id": "inst-ministerio-del-interior",
+      "type": "institution",
+      "label": "Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.interior.gob.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-claudio-alvarado-inst-ministerio-del-interior-heads",
+      "source": "claudio-alvarado",
+      "target": "inst-ministerio-del-interior",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T18:16:44.616289+00:00"
+}

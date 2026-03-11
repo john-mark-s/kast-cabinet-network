@@ -1,0 +1,2159 @@
+{
+  "nodes": [
+    {
+      "id": "jorge-quiroz",
+      "type": "person",
+      "label": "Jorge Antonio Quiroz Castro",
+      "role": "Ministro de Hacienda",
+      "party": "Independiente",
+      "ministry": "Ministerio de Hacienda",
+      "flags": [
+        "GOV_CONTRACTOR",
+        "COLLUSION_LINK",
+        "REVOLVING_DOOR",
+        "ACTIVE_CONTRACT",
+        "CORPORATE_RESTRUCTURING"
+      ],
+      "sources": [
+        "Wikipedia - Jorge Quiroz",
+        "CIPER Chile",
+        "La Tercera",
+        "Contrapoder Chile",
+        "Conadecus"
+      ],
+      "sourceKeys": [
+        "wikipedia_quiroz",
+        "ciper",
+        "latercera",
+        "contrapoder",
+        "conadecus"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        },
+        {
+          "label": "Perfil Wikipedia",
+          "url": "https://es.wikipedia.org/wiki/Jorge_Quiroz"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "mapped",
+      "notes": "Economista PUC/U.Chile. Coordinador económico campaña Kast. Fundador QA Consultores. Perito en casos de colusión: avícola, farmacias, asfalto, navieras."
+    },
+    {
+      "id": "inst-ministerio-de-hacienda",
+      "type": "institution",
+      "label": "Ministerio de Hacienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.hacienda.cl/transparencia"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "rut-969531208",
+      "type": "company",
+      "label": "Jorge Quiroz C. y Consultores Asociados SA (now QA Consultores)",
+      "rut": "96.953.120-8",
+      "flags": [
+        "GOV_CONTRACTOR",
+        "CORPORATE_RESTRUCTURING"
+      ],
+      "sources": [
+        "La Tercera",
+        "Geneanexus"
+      ],
+      "sourceKeys": [
+        "latercera",
+        "geneanexus"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver RUT en Geneanexus",
+          "url": "https://www.genealog.cl/Geneanexus/empresa/CHILE/TOTY5TwNTMxMjAtOA-jTw/nombre-y-rut/QUIROZ-Y-ASOCIADOS-S.A.-96953120-8"
+        },
+        {
+          "label": "Buscar en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "mapped"
+    },
+    {
+      "id": "company-qya-consultores-ltda-(ex-quiroz-y-asociados-consultores-ltda)",
+      "type": "company",
+      "label": "QYA Consultores Ltda. (ex Quiroz y Asociados Consultores Ltda.)",
+      "rut": "",
+      "flags": [
+        "GOV_CONTRACTOR",
+        "CORPORATE_RESTRUCTURING"
+      ],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Buscar en SII",
+          "url": "https://www.sii.cl/sobre_el_sii/nominapersonasjuridicas.html"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "mapped"
+    },
+    {
+      "id": "person-mónica-ríos",
+      "type": "person",
+      "label": "Mónica Ríos",
+      "role": "Cónyuge. Asesora Min. Economía (Piñera I, 2010-14), Jefa asesores MOP (Piñera II)",
+      "flags": [
+        "REVOLVING_DOOR"
+      ],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "person-felipe-givovich-díaz",
+      "type": "person",
+      "label": "Felipe Givovich Díaz",
+      "role": "Socio QA 58.81% (desde 2003)",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "person-jorge-bravo-tamayo",
+      "type": "person",
+      "label": "Jorge Bravo Tamayo",
+      "role": "Socio QA 41.19%, ex-Banco Central",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "person-paula-hurtado-edwards",
+      "type": "person",
+      "label": "Paula Hurtado Edwards",
+      "role": "Ex-socia QA (salió ene 2026 con Quiroz)",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "person-tomás-bunster",
+      "type": "person",
+      "label": "Tomás Bunster",
+      "role": "Asociado QA 3+ años, vocero económico campaña Kast, posible dir. DIPRES",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "inst-subsecretaría-de-economía",
+      "type": "institution",
+      "label": "Subsecretaría de Economía",
+      "flags": [],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "inst-subsecretaría-min-vivienda-y-urbanismo",
+      "type": "institution",
+      "label": "Subsecretaría Min. Vivienda y Urbanismo",
+      "flags": [],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "inst-ministerio-segpres",
+      "type": "institution",
+      "label": "Ministerio Segpres",
+      "flags": [],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "inst-enap",
+      "type": "institution",
+      "label": "ENAP",
+      "flags": [],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.enap.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "client-agrosuper-/-ariztía-/-don-pollo-(vía-apa)",
+      "type": "corporate_client",
+      "label": "Agrosuper / Ariztía / Don Pollo (vía APA)",
+      "case": "Colusión avícola (1994-2010)",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile",
+        "TDLC"
+      ],
+      "sourceKeys": [
+        "ciper",
+        "tdlc"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "client-salcobrand",
+      "type": "corporate_client",
+      "label": "Salcobrand",
+      "case": "Colusión farmacias",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile",
+        "TDLC"
+      ],
+      "sourceKeys": [
+        "ciper",
+        "tdlc"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "client-asfaltos-chilenos",
+      "type": "corporate_client",
+      "label": "Asfaltos Chilenos",
+      "case": "Colusión asfalto",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile"
+      ],
+      "sourceKeys": [
+        "ciper"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "client-mol-(mitsui-osk-lines)",
+      "type": "corporate_client",
+      "label": "MOL (Mitsui O.S.K. Lines)",
+      "case": "Colusión navieras (car carriers)",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile"
+      ],
+      "sourceKeys": [
+        "ciper"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "client-metrogas",
+      "type": "corporate_client",
+      "label": "Metrogas",
+      "case": "Arbitraje regulatorio",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "Conadecus"
+      ],
+      "sourceKeys": [
+        "conadecus"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "inst-bolsa-de-comercio-de-santiago",
+      "type": "institution",
+      "label": "Bolsa de Comercio de Santiago",
+      "flags": [],
+      "sources": [
+        "Wikipedia - Jorge Quiroz"
+      ],
+      "sourceKeys": [
+        "wikipedia_quiroz"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "claudio-alvarado",
+      "type": "person",
+      "label": "Claudio Alvarado Andrade",
+      "role": "Ministro del Interior y Seguridad Pública",
+      "party": "UDI",
+      "ministry": "Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-diputado UDI. Ministro Segpres en ambos gobiernos Piñera. Encargado del traspaso de mando Boric→Kast."
+    },
+    {
+      "id": "inst-ministerio-del-interior",
+      "type": "institution",
+      "label": "Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.interior.gob.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "francisco-perez-mackenna",
+      "type": "person",
+      "label": "Francisco Pérez Mackenna",
+      "role": "Ministro de Relaciones Exteriores",
+      "party": "Independiente",
+      "ministry": "Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-rree",
+      "type": "institution",
+      "label": "Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "fernando-barros-tocornal",
+      "type": "person",
+      "label": "Fernando Barros Tocornal",
+      "role": "Ministro de Defensa Nacional",
+      "party": "Independiente",
+      "ministry": "Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Abogado. Integró el equipo defensor de Pinochet (Caso Riggs)."
+    },
+    {
+      "id": "inst-ministerio-de-defensa",
+      "type": "institution",
+      "label": "Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "trinidad-steinert",
+      "type": "person",
+      "label": "Trinidad Steinert Herrera",
+      "role": "Ministra de Seguridad Pública",
+      "party": "Independiente",
+      "ministry": "Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Fiscal de la región de Tarapacá. Zona fronteriza clave para inmigración."
+    },
+    {
+      "id": "inst-ministerio-de-seguridad-pública",
+      "type": "institution",
+      "label": "Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "jose-garcia-ruminot",
+      "type": "person",
+      "label": "José García Ruminot",
+      "role": "Ministro Secretario General de la Presidencia",
+      "party": "Renovación Nacional",
+      "ministry": "Ministerio Segpres",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Ficha BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-senador Araucanía (2018-2026). Ex-presidente del Senado (2024-2025). Cargos en dictadura: alcalde de Toltén (1980), Lautaro (1984), Temuco (1986). RN desde 1989."
+    },
+    {
+      "id": "mara-sedini",
+      "type": "person",
+      "label": "Mara Sedini Viancos",
+      "role": "Ministra Secretaria General de Gobierno",
+      "party": "Independiente",
+      "ministry": "Ministerio Segob",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-segob",
+      "type": "institution",
+      "label": "Ministerio Segob",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "daniel-mas-valdes",
+      "type": "person",
+      "label": "Daniel Mas Valdés",
+      "role": "Ministro de Economía, Fomento y Turismo / Ministro de Minería",
+      "party": "Independiente",
+      "ministry": "Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Holds both Economía and Minería portfolios simultaneously."
+    },
+    {
+      "id": "inst-ministerio-de-economía-/-ministerio-de-minería",
+      "type": "institution",
+      "label": "Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "maria-wulf",
+      "type": "person",
+      "label": "María Jesús Wulf Le May",
+      "role": "Ministra de Desarrollo Social y Familia",
+      "party": "Partido Republicano",
+      "ministry": "Ministerio de Desarrollo Social",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Socióloga PUC. Fundadora red gremialista 'Movamos'. Ex-directora Fundación Jaime Guzmán. Subdirectora Acción Republicana."
+    },
+    {
+      "id": "inst-ministerio-de-desarrollo-social",
+      "type": "institution",
+      "label": "Ministerio de Desarrollo Social",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "maria-paz-arzola",
+      "type": "person",
+      "label": "María Paz Arzola González",
+      "role": "Ministra de Educación",
+      "party": "Independiente",
+      "ministry": "Ministerio de Educación",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-educación",
+      "type": "institution",
+      "label": "Ministerio de Educación",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "fernando-rabat",
+      "type": "person",
+      "label": "Fernando Rabat Celis",
+      "role": "Ministro de Justicia y Derechos Humanos",
+      "party": "Independiente",
+      "ministry": "Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Académico U. del Desarrollo. Socio fundador Barros & Errázuriz (1988). Decano Derecho U. Finis Terrae."
+    },
+    {
+      "id": "inst-ministerio-de-justicia",
+      "type": "institution",
+      "label": "Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.minjusticia.gob.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "tomas-rau",
+      "type": "person",
+      "label": "Tomás Rau Binder",
+      "role": "Ministro de Trabajo y Previsión Social",
+      "party": "Independiente",
+      "ministry": "Ministerio del Trabajo",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-del-trabajo",
+      "type": "institution",
+      "label": "Ministerio del Trabajo",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "martin-arrau",
+      "type": "person",
+      "label": "Martín Arrau García-Huidobro",
+      "role": "Ministro de Obras Públicas",
+      "party": "Partido Republicano",
+      "ministry": "Ministerio de Obras Públicas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-obras-públicas",
+      "type": "institution",
+      "label": "Ministerio de Obras Públicas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.mop.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "may-chomali",
+      "type": "person",
+      "label": "May Chomalí Garib",
+      "role": "Ministra de Salud",
+      "party": "Independiente",
+      "ministry": "Ministerio de Salud",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-salud",
+      "type": "institution",
+      "label": "Ministerio de Salud",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "ivan-poduje",
+      "type": "person",
+      "label": "Iván Poduje Capdeville",
+      "role": "Ministro de Vivienda y Urbanismo",
+      "party": "Independiente",
+      "ministry": "Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-vivienda",
+      "type": "institution",
+      "label": "Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "jaime-campos",
+      "type": "person",
+      "label": "Jaime Campos Quiroga",
+      "role": "Ministro de Agricultura",
+      "party": "Partido Radical",
+      "ministry": "Ministerio de Agricultura",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-agricultura",
+      "type": "institution",
+      "label": "Ministerio de Agricultura",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "louis-de-grange",
+      "type": "person",
+      "label": "Louis de Grange Concha",
+      "role": "Ministro de Transportes y Telecomunicaciones",
+      "party": "Independiente",
+      "ministry": "Ministerio de Transportes",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-transportes",
+      "type": "institution",
+      "label": "Ministerio de Transportes",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "catalina-parot",
+      "type": "person",
+      "label": "Catalina Parot Donoso",
+      "role": "Ministra de Bienes Nacionales",
+      "party": "Independiente",
+      "ministry": "Ministerio de Bienes Nacionales",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-bienes-nacionales",
+      "type": "institution",
+      "label": "Ministerio de Bienes Nacionales",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "ximena-rincon",
+      "type": "person",
+      "label": "Ximena Rincón González",
+      "role": "Ministra de Energía",
+      "party": "Demócratas",
+      "ministry": "Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Ficha BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-senadora Maule (2018-2026). Ex-ministra Segpres y Trabajo bajo Bachelet II. Presidenta Demócratas. Ex-directora AFP Provida."
+    },
+    {
+      "id": "inst-ministerio-de-energía",
+      "type": "institution",
+      "label": "Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "francisca-toledo",
+      "type": "person",
+      "label": "Francisca Ignacia Toledo Echegaray",
+      "role": "Ministra de Medio Ambiente",
+      "party": "Independiente",
+      "ministry": "Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ing. Civil Industrial PUC. Máster derecho regulatorio. Investigadora Libertad y Desarrollo. Asesora gabinete Presidencia Piñera II (2018-2020). Ex-gerenta Cámara Marítima."
+    },
+    {
+      "id": "inst-ministerio-de-medio-ambiente",
+      "type": "institution",
+      "label": "Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "natalia-duco",
+      "type": "person",
+      "label": "Natalia Duco Soler",
+      "role": "Ministra de Deporte",
+      "party": "Independiente",
+      "ministry": "Ministerio del Deporte",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-del-deporte",
+      "type": "institution",
+      "label": "Ministerio del Deporte",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "judith-marin",
+      "type": "person",
+      "label": "Judith Marín Morales",
+      "role": "Ministra de la Mujer y la Equidad de Género",
+      "party": "Independiente",
+      "ministry": "Ministerio de la Mujer",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-la-mujer",
+      "type": "institution",
+      "label": "Ministerio de la Mujer",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "francisco-undurraga",
+      "type": "person",
+      "label": "Francisco Undurraga Gazitúa",
+      "role": "Ministro de las Culturas, las Artes y el Patrimonio",
+      "party": "Independiente",
+      "ministry": "Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-las-culturas",
+      "type": "institution",
+      "label": "Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    },
+    {
+      "id": "ximena-lincolao",
+      "type": "person",
+      "label": "Ximena Lincolao Gates",
+      "role": "Ministra de Ciencia, Tecnología, Conocimiento e Innovación",
+      "party": "Independiente",
+      "ministry": "Ministerio de Ciencia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-ciencia",
+      "type": "institution",
+      "label": "Ministerio de Ciencia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-jorge-quiroz-inst-ministerio-de-hacienda-heads",
+      "source": "jorge-quiroz",
+      "target": "inst-ministerio-de-hacienda",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Hacienda",
+      "flags": [],
+      "sources": [
+        "Wikipedia - Jorge Quiroz",
+        "CIPER Chile",
+        "La Tercera",
+        "Contrapoder Chile",
+        "Conadecus"
+      ],
+      "sourceKeys": [
+        "wikipedia_quiroz",
+        "ciper",
+        "latercera",
+        "contrapoder",
+        "conadecus"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-rut-969531208-owned",
+      "source": "jorge-quiroz",
+      "target": "rut-969531208",
+      "type": "owned",
+      "label": "Founder/controller (exited Jan 2026)",
+      "flags": [],
+      "sources": [
+        "La Tercera",
+        "Geneanexus"
+      ],
+      "sourceKeys": [
+        "latercera",
+        "geneanexus"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver RUT en Geneanexus",
+          "url": "https://www.genealog.cl/Geneanexus/empresa/CHILE/TOTY5TwNTMxMjAtOA-jTw/nombre-y-rut/QUIROZ-Y-ASOCIADOS-S.A.-96953120-8"
+        },
+        {
+          "label": "Buscar en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-company-qya-consultores-ltda-(ex-quiroz-y-asociados-consultores-ltda)-owned",
+      "source": "jorge-quiroz",
+      "target": "company-qya-consultores-ltda-(ex-quiroz-y-asociados-consultores-ltda)",
+      "type": "owned",
+      "label": "57.97% owner (exited Jan 2026)",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Buscar en SII",
+          "url": "https://www.sii.cl/sobre_el_sii/nominapersonasjuridicas.html"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-person-mónica-ríos-family",
+      "source": "jorge-quiroz",
+      "target": "person-mónica-ríos",
+      "type": "family",
+      "label": "Cónyuge. Asesora Min. Economía (Piñera I, 2010-14), Jefa asesores MOP (Piñera II)",
+      "flags": [
+        "REVOLVING_DOOR"
+      ],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-person-felipe-givovich-díaz-works_at",
+      "source": "jorge-quiroz",
+      "target": "person-felipe-givovich-díaz",
+      "type": "works_at",
+      "label": "Socio QA 58.81% (desde 2003)",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-person-felipe-givovich-díaz-rut-969531208-works_at",
+      "source": "person-felipe-givovich-díaz",
+      "target": "rut-969531208",
+      "type": "works_at",
+      "label": "Socio/a",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-person-jorge-bravo-tamayo-works_at",
+      "source": "jorge-quiroz",
+      "target": "person-jorge-bravo-tamayo",
+      "type": "works_at",
+      "label": "Socio QA 41.19%, ex-Banco Central",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-person-jorge-bravo-tamayo-rut-969531208-works_at",
+      "source": "person-jorge-bravo-tamayo",
+      "target": "rut-969531208",
+      "type": "works_at",
+      "label": "Socio/a",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-person-paula-hurtado-edwards-works_at",
+      "source": "jorge-quiroz",
+      "target": "person-paula-hurtado-edwards",
+      "type": "works_at",
+      "label": "Ex-socia QA (salió ene 2026 con Quiroz)",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-person-tomás-bunster-works_at",
+      "source": "jorge-quiroz",
+      "target": "person-tomás-bunster",
+      "type": "works_at",
+      "label": "Asociado QA 3+ años, vocero económico campaña Kast, posible dir. DIPRES",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-person-tomás-bunster-rut-969531208-works_at",
+      "source": "person-tomás-bunster",
+      "target": "rut-969531208",
+      "type": "works_at",
+      "label": "Socio/a",
+      "flags": [],
+      "sources": [
+        "La Tercera"
+      ],
+      "sourceKeys": [
+        "latercera"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-contract-jorge-quiroz-0",
+      "source": "rut-969531208",
+      "target": "inst-subsecretaría-de-economía",
+      "type": "contract",
+      "label": "Asesoría gestión estratégica + análisis cabotaje (2011)",
+      "amount_clp": 28953823,
+      "year": 2011,
+      "flags": [
+        "GOV_CONTRACTOR"
+      ],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-contract-jorge-quiroz-1",
+      "source": "rut-969531208",
+      "target": "inst-subsecretaría-min-vivienda-y-urbanismo",
+      "type": "contract",
+      "label": "Estudio factibilidad seguro construcción (2012)",
+      "amount_clp": 23000000,
+      "year": 2012,
+      "flags": [
+        "GOV_CONTRACTOR"
+      ],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-contract-jorge-quiroz-2",
+      "source": "rut-969531208",
+      "target": "inst-ministerio-segpres",
+      "type": "contract",
+      "label": "Evaluación política cabotaje aéreo (2013)",
+      "amount_clp": 10000000,
+      "year": 2013,
+      "flags": [
+        "GOV_CONTRACTOR"
+      ],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-contract-jorge-quiroz-3",
+      "source": "rut-969531208",
+      "target": "inst-ministerio-segpres",
+      "type": "contract",
+      "label": "Evaluación portabilidad numérica (2013)",
+      "amount_clp": 10000000,
+      "year": 2013,
+      "flags": [
+        "GOV_CONTRACTOR"
+      ],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-contract-jorge-quiroz-4",
+      "source": "rut-969531208",
+      "target": "inst-enap",
+      "type": "contract",
+      "label": "Asesor externo (vigente) (2022)",
+      "amount_clp": null,
+      "year": 2022,
+      "flags": [
+        "GOV_CONTRACTOR",
+        "ACTIVE_CONTRACT"
+      ],
+      "sources": [
+        "Contrapoder Chile"
+      ],
+      "sourceKeys": [
+        "contrapoder"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en Mercado Público",
+          "url": "https://www.enap.cl/transparencia/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-client-agrosuper-/-ariztía-/-don-pollo-(vía-apa)-advisory",
+      "source": "jorge-quiroz",
+      "target": "client-agrosuper-/-ariztía-/-don-pollo-(vía-apa)",
+      "type": "advisory",
+      "label": "Consultor/perito: Creó modelo de proyección de ventas usado para repartir mercado",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile",
+        "TDLC"
+      ],
+      "sourceKeys": [
+        "ciper",
+        "tdlc"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-client-salcobrand-advisory",
+      "source": "jorge-quiroz",
+      "target": "client-salcobrand",
+      "type": "advisory",
+      "label": "Consultor/perito: Perito testigo, descartó colusión tras revisar 45K emails; tribunal encontró prueba directa",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile",
+        "TDLC"
+      ],
+      "sourceKeys": [
+        "ciper",
+        "tdlc"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-client-asfaltos-chilenos-advisory",
+      "source": "jorge-quiroz",
+      "target": "client-asfaltos-chilenos",
+      "type": "advisory",
+      "label": "Consultor/perito: Análisis de mercado post-acusación",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile"
+      ],
+      "sourceKeys": [
+        "ciper"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-client-mol-(mitsui-osk-lines)-advisory",
+      "source": "jorge-quiroz",
+      "target": "client-mol-(mitsui-osk-lines)",
+      "type": "advisory",
+      "label": "Consultor/perito: Argumentó multa excesiva; TDLC inicial $2.5M, Corte Suprema elevó a $30.5M total",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "CIPER Chile"
+      ],
+      "sourceKeys": [
+        "ciper"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-client-metrogas-advisory",
+      "source": "jorge-quiroz",
+      "target": "client-metrogas",
+      "type": "advisory",
+      "label": "Consultor/perito: Asesoría en split corporativo que elevó precios gas 12.7-20.2%",
+      "flags": [
+        "COLLUSION_LINK"
+      ],
+      "sources": [
+        "Conadecus"
+      ],
+      "sourceKeys": [
+        "conadecus"
+      ],
+      "verifyUrls": [
+        {
+          "label": "Ver en TDLC",
+          "url": "https://www.tdlc.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jorge-quiroz-inst-bolsa-de-comercio-de-santiago-board",
+      "source": "jorge-quiroz",
+      "target": "inst-bolsa-de-comercio-de-santiago",
+      "type": "board",
+      "label": "Director/a: Renunció ene 2026 tras nominación",
+      "flags": [],
+      "sources": [
+        "Wikipedia - Jorge Quiroz"
+      ],
+      "sourceKeys": [
+        "wikipedia_quiroz"
+      ],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-claudio-alvarado-inst-ministerio-del-interior-heads",
+      "source": "claudio-alvarado",
+      "target": "inst-ministerio-del-interior",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio del Interior",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-francisco-perez-mackenna-inst-ministerio-de-rree-heads",
+      "source": "francisco-perez-mackenna",
+      "target": "inst-ministerio-de-rree",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de RR.EE.",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-fernando-barros-tocornal-inst-ministerio-de-defensa-heads",
+      "source": "fernando-barros-tocornal",
+      "target": "inst-ministerio-de-defensa",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Defensa",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-trinidad-steinert-inst-ministerio-de-seguridad-pública-heads",
+      "source": "trinidad-steinert",
+      "target": "inst-ministerio-de-seguridad-pública",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Seguridad Pública",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jose-garcia-ruminot-inst-ministerio-segpres-heads",
+      "source": "jose-garcia-ruminot",
+      "target": "inst-ministerio-segpres",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio Segpres",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-mara-sedini-inst-ministerio-segob-heads",
+      "source": "mara-sedini",
+      "target": "inst-ministerio-segob",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio Segob",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-daniel-mas-valdes-inst-ministerio-de-economía-/-ministerio-de-minería-heads",
+      "source": "daniel-mas-valdes",
+      "target": "inst-ministerio-de-economía-/-ministerio-de-minería",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-maria-wulf-inst-ministerio-de-desarrollo-social-heads",
+      "source": "maria-wulf",
+      "target": "inst-ministerio-de-desarrollo-social",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Desarrollo Social",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-maria-paz-arzola-inst-ministerio-de-educación-heads",
+      "source": "maria-paz-arzola",
+      "target": "inst-ministerio-de-educación",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Educación",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-fernando-rabat-inst-ministerio-de-justicia-heads",
+      "source": "fernando-rabat",
+      "target": "inst-ministerio-de-justicia",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Justicia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-tomas-rau-inst-ministerio-del-trabajo-heads",
+      "source": "tomas-rau",
+      "target": "inst-ministerio-del-trabajo",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio del Trabajo",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-martin-arrau-inst-ministerio-de-obras-públicas-heads",
+      "source": "martin-arrau",
+      "target": "inst-ministerio-de-obras-públicas",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Obras Públicas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-may-chomali-inst-ministerio-de-salud-heads",
+      "source": "may-chomali",
+      "target": "inst-ministerio-de-salud",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Salud",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-ivan-poduje-inst-ministerio-de-vivienda-heads",
+      "source": "ivan-poduje",
+      "target": "inst-ministerio-de-vivienda",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Vivienda",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-jaime-campos-inst-ministerio-de-agricultura-heads",
+      "source": "jaime-campos",
+      "target": "inst-ministerio-de-agricultura",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Agricultura",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-louis-de-grange-inst-ministerio-de-transportes-heads",
+      "source": "louis-de-grange",
+      "target": "inst-ministerio-de-transportes",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Transportes",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-catalina-parot-inst-ministerio-de-bienes-nacionales-heads",
+      "source": "catalina-parot",
+      "target": "inst-ministerio-de-bienes-nacionales",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Bienes Nacionales",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-ximena-rincon-inst-ministerio-de-energía-heads",
+      "source": "ximena-rincon",
+      "target": "inst-ministerio-de-energía",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-francisca-toledo-inst-ministerio-de-medio-ambiente-heads",
+      "source": "francisca-toledo",
+      "target": "inst-ministerio-de-medio-ambiente",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-natalia-duco-inst-ministerio-del-deporte-heads",
+      "source": "natalia-duco",
+      "target": "inst-ministerio-del-deporte",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio del Deporte",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-judith-marin-inst-ministerio-de-la-mujer-heads",
+      "source": "judith-marin",
+      "target": "inst-ministerio-de-la-mujer",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de la Mujer",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-francisco-undurraga-inst-ministerio-de-las-culturas-heads",
+      "source": "francisco-undurraga",
+      "target": "inst-ministerio-de-las-culturas",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    },
+    {
+      "id": "e-ximena-lincolao-inst-ministerio-de-ciencia-heads",
+      "source": "ximena-lincolao",
+      "target": "inst-ministerio-de-ciencia",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Ciencia",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-03-11T19:02:55.448930+00:00",
+    "nodeCount": 64,
+    "edgeCount": 45,
+    "sources": {
+      "infoprobidad": {
+        "name": "InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      },
+      "chilecompra": {
+        "name": "Mercado Público",
+        "url": "https://www.mercadopublico.cl/Portal/Modules/Site/Busquedas/BuscadorAvanzado.aspx"
+      },
+      "infolobby": {
+        "name": "InfoLobby",
+        "url": "https://www.leylobby.gob.cl/"
+      },
+      "sii": {
+        "name": "SII Empresas",
+        "url": "https://www.sii.cl/sobre_el_sii/nominapersonasjuridicas.html"
+      },
+      "opendata_cc": {
+        "name": "Datos Abiertos ChileCompra",
+        "url": "https://datos-abiertos.chilecompra.cl"
+      },
+      "opendata_ip": {
+        "name": "Datos Abiertos InfoProbidad",
+        "url": "https://www.infoprobidad.cl/DatosAbiertos/DatosAbiertos"
+      },
+      "opendata_il": {
+        "name": "API InfoLobby",
+        "url": "https://www.leylobby.gob.cl/api/v1/"
+      },
+      "bcn": {
+        "name": "Biblioteca del Congreso",
+        "url": "https://opendata.camara.cl"
+      },
+      "transparencia": {
+        "name": "Portal Transparencia",
+        "url": "https://www.portaltransparencia.cl/PortalPdT/"
+      },
+      "tdlc": {
+        "name": "TDLC",
+        "url": "https://www.tdlc.cl/"
+      },
+      "geneanexus": {
+        "name": "Geneanexus",
+        "url": "https://www.genealog.cl/"
+      },
+      "ciper": {
+        "name": "CIPER Chile",
+        "url": "https://www.ciperchile.cl/2026/02/10/los-15-registros-que-describen-el-rol-del-futuro-ministro-de-hacienda-jorge-quiroz-a-favor-de-empresas-sancionadas-por-colusion/"
+      },
+      "latercera": {
+        "name": "La Tercera",
+        "url": "https://www.latercera.com/pulso/noticia/jorge-quiroz-alista-su-desembarco-en-hacienda-y-se-separa-de-los-socios-de-su-consultora/"
+      },
+      "contrapoder": {
+        "name": "Contrapoder Chile",
+        "url": "https://contrapoderchile.cl/las-millonarias-asesorias-entre-la-empresa-del-coordinador-economico-de-kast-jorge-quiroz-y-el-gobierno-de-sebastian-pinera/"
+      },
+      "conadecus": {
+        "name": "Conadecus",
+        "url": "https://www.conadecus.cl/jorge-quiroz-el-economista-pro-colusion-y-anti-consumidores/"
+      },
+      "wikipedia_quiroz": {
+        "name": "Wikipedia - Jorge Quiroz",
+        "url": "https://es.wikipedia.org/wiki/Jorge_Quiroz"
+      }
+    },
+    "phase": 1,
+    "description": "Phase 1 seed graph — Quiroz fully mapped, all other ministers as seed nodes"
+  }
+}
