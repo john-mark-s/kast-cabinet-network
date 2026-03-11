@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2026-03-11T18:16:44.616289+00:00",
+  "phase": 1,
+  "nodeCount": 64,
+  "edgeCount": 45,
+  "ministerCount": 24,
+  "mappedCount": 1,
+  "seedCount": 23,
+  "sources": {
+    "chilecompra": {
+      "lastRun": null,
+      "status": "pending"
+    },
+    "infolobby": {
+      "lastRun": null,
+      "status": "pending"
+    },
+    "infoprobidad": {
+      "lastRun": null,
+      "status": "pending"
+    },
+    "sii": {
+      "lastRun": null,
+      "status": "pending"
+    }
+  },
+  "flagCounts": {
+    "CORPORATE_RESTRUCTURING": 3,
+    "GOV_CONTRACTOR": 3,
+    "COLLUSION_LINK": 6,
+    "REVOLVING_DOOR": 2,
+    "ACTIVE_CONTRACT": 1
+  }
+}

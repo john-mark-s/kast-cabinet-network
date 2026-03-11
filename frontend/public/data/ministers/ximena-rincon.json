@@ -1,0 +1,95 @@
+{
+  "minister": {
+    "id": "ximena-rincon",
+    "type": "person",
+    "label": "Ximena Rincón González",
+    "role": "Ministra de Energía",
+    "party": "Demócratas",
+    "ministry": "Ministerio de Energía",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Ficha BCN",
+        "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+      },
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Ex-senadora Maule (2018-2026). Ex-ministra Segpres y Trabajo bajo Bachelet II. Presidenta Demócratas. Ex-directora AFP Provida."
+  },
+  "nodes": [
+    {
+      "id": "ximena-rincon",
+      "type": "person",
+      "label": "Ximena Rincón González",
+      "role": "Ministra de Energía",
+      "party": "Demócratas",
+      "ministry": "Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Ficha BCN",
+          "url": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html"
+        },
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ex-senadora Maule (2018-2026). Ex-ministra Segpres y Trabajo bajo Bachelet II. Presidenta Demócratas. Ex-directora AFP Provida."
+    },
+    {
+      "id": "inst-ministerio-de-energía",
+      "type": "institution",
+      "label": "Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-ximena-rincon-inst-ministerio-de-energía-heads",
+      "source": "ximena-rincon",
+      "target": "inst-ministerio-de-energía",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Energía",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T18:16:44.616289+00:00"
+}

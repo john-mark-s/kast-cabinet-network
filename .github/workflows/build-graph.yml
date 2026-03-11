@@ -1,0 +1,49 @@
+name: Build Graph
+
+on:
+  push:
+    paths:
+      - 'data/processed/**'
+      - 'scripts/config.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need previous commit for diff
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build graph
+        run: python scripts/build_graph.py
+
+      - name: Generate changelog diff
+        run: python scripts/diff_graph.py
+
+      - name: Copy graph to frontend
+        run: |
+          mkdir -p frontend/public/data/ministers
+          cp data/graph/graph.json frontend/public/data/
+          cp data/graph/changelog.json frontend/public/data/
+          cp data/graph/meta.json frontend/public/data/
+          cp -r data/graph/ministers/ frontend/public/data/ministers/
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/graph/ frontend/public/data/
+          git diff --cached --quiet || git commit -m "chore: rebuild graph [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push origin HEAD

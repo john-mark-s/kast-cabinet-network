@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "daniel-mas-valdes",
+    "type": "person",
+    "label": "Daniel Mas Valdés",
+    "role": "Ministro de Economía, Fomento y Turismo / Ministro de Minería",
+    "party": "Independiente",
+    "ministry": "Ministerio de Economía / Ministerio de Minería",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Holds both Economía and Minería portfolios simultaneously."
+  },
+  "nodes": [
+    {
+      "id": "daniel-mas-valdes",
+      "type": "person",
+      "label": "Daniel Mas Valdés",
+      "role": "Ministro de Economía, Fomento y Turismo / Ministro de Minería",
+      "party": "Independiente",
+      "ministry": "Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Holds both Economía and Minería portfolios simultaneously."
+    },
+    {
+      "id": "inst-ministerio-de-economía-/-ministerio-de-minería",
+      "type": "institution",
+      "label": "Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-daniel-mas-valdes-inst-ministerio-de-economía-/-ministerio-de-minería-heads",
+      "source": "daniel-mas-valdes",
+      "target": "inst-ministerio-de-economía-/-ministerio-de-minería",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Economía / Ministerio de Minería",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T18:16:44.616289+00:00"
+}

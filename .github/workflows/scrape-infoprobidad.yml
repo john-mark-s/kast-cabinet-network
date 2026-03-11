@@ -1,0 +1,34 @@
+name: Scrape InfoProbidad
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'  # 1st of every month at 8AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run InfoProbidad scraper
+        run: python scripts/scrape_infoprobidad.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/infoprobidad/
+          git diff --cached --quiet || git commit -m "chore: update InfoProbidad data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push origin HEAD

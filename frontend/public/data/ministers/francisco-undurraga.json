@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "francisco-undurraga",
+    "type": "person",
+    "label": "Francisco Undurraga Gazitúa",
+    "role": "Ministro de las Culturas, las Artes y el Patrimonio",
+    "party": "Independiente",
+    "ministry": "Ministerio de las Culturas",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": ""
+  },
+  "nodes": [
+    {
+      "id": "francisco-undurraga",
+      "type": "person",
+      "label": "Francisco Undurraga Gazitúa",
+      "role": "Ministro de las Culturas, las Artes y el Patrimonio",
+      "party": "Independiente",
+      "ministry": "Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": ""
+    },
+    {
+      "id": "inst-ministerio-de-las-culturas",
+      "type": "institution",
+      "label": "Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-francisco-undurraga-inst-ministerio-de-las-culturas-heads",
+      "source": "francisco-undurraga",
+      "target": "inst-ministerio-de-las-culturas",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de las Culturas",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T18:16:44.616289+00:00"
+}

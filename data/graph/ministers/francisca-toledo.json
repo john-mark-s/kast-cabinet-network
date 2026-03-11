@@ -1,0 +1,87 @@
+{
+  "minister": {
+    "id": "francisca-toledo",
+    "type": "person",
+    "label": "Francisca Ignacia Toledo Echegaray",
+    "role": "Ministra de Medio Ambiente",
+    "party": "Independiente",
+    "ministry": "Ministerio de Medio Ambiente",
+    "flags": [],
+    "sources": [],
+    "sourceKeys": [],
+    "verifyUrls": [
+      {
+        "label": "Buscar en InfoProbidad",
+        "url": "https://www.infoprobidad.cl/Home/Listado"
+      }
+    ],
+    "addedDate": "2026-03-11",
+    "lastModified": "2026-03-11",
+    "status": "seed",
+    "notes": "Ing. Civil Industrial PUC. Máster derecho regulatorio. Investigadora Libertad y Desarrollo. Asesora gabinete Presidencia Piñera II (2018-2020). Ex-gerenta Cámara Marítima."
+  },
+  "nodes": [
+    {
+      "id": "francisca-toledo",
+      "type": "person",
+      "label": "Francisca Ignacia Toledo Echegaray",
+      "role": "Ministra de Medio Ambiente",
+      "party": "Independiente",
+      "ministry": "Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Buscar en InfoProbidad",
+          "url": "https://www.infoprobidad.cl/Home/Listado"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed",
+      "notes": "Ing. Civil Industrial PUC. Máster derecho regulatorio. Investigadora Libertad y Desarrollo. Asesora gabinete Presidencia Piñera II (2018-2020). Ex-gerenta Cámara Marítima."
+    },
+    {
+      "id": "inst-ministerio-de-medio-ambiente",
+      "type": "institution",
+      "label": "Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [
+        {
+          "label": "Portal Transparencia",
+          "url": "https://www.portaltransparencia.cl/"
+        }
+      ],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11",
+      "status": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-francisca-toledo-inst-ministerio-de-medio-ambiente-heads",
+      "source": "francisca-toledo",
+      "target": "inst-ministerio-de-medio-ambiente",
+      "type": "heads",
+      "label": "Ministro/a de Ministerio de Medio Ambiente",
+      "flags": [],
+      "sources": [],
+      "sourceKeys": [],
+      "verifyUrls": [],
+      "addedDate": "2026-03-11",
+      "lastModified": "2026-03-11"
+    }
+  ],
+  "rawData": {
+    "known_companies": [],
+    "known_associates": [],
+    "known_gov_contracts": [],
+    "collusion_links": [],
+    "board_memberships": [],
+    "corporate_events": []
+  },
+  "generatedAt": "2026-03-11T18:16:44.616289+00:00"
+}
