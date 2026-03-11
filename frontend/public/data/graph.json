@@ -8,11 +8,11 @@
       "party": "Independiente",
       "ministry": "Ministerio de Hacienda",
       "flags": [
-        "GOV_CONTRACTOR",
         "COLLUSION_LINK",
-        "REVOLVING_DOOR",
+        "GOV_CONTRACTOR",
         "ACTIVE_CONTRACT",
-        "CORPORATE_RESTRUCTURING"
+        "CORPORATE_RESTRUCTURING",
+        "REVOLVING_DOOR"
       ],
       "sources": [
         "Wikipedia - Jorge Quiroz",
@@ -2084,7 +2084,7 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-03-11T19:02:55.448930+00:00",
+    "generatedAt": "2026-03-11T19:04:03.246922+00:00",
     "nodeCount": 64,
     "edgeCount": 45,
     "sources": {

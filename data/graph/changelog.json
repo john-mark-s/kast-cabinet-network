@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-11T19:02:55.703969+00:00",
-  "totalEvents": 14,
+  "updatedAt": "2026-03-11T19:04:03.412323+00:00",
+  "totalEvents": 21,
   "weeks": [
     {
       "week": "2026-W11",
@@ -156,12 +156,101 @@
           "nodeRefs": [
             "jorge-quiroz"
           ]
+        },
+        {
+          "type": "INAUGURAL_BUILD",
+          "date": "2026-03-11",
+          "severity": "info",
+          "icon": "🚀",
+          "title": "Red de conexiones publicada — Gabinete Kast",
+          "desc": "Se publicó el grafo inaugural del Gabinete Kast (11 marzo 2026). 64 nodos, 45 conexiones. Jorge Quiroz (Hacienda) completamente mapeado con 9 alertas detectadas. Los 28 ministros restantes están listados como nodos semilla.",
+          "source": "config.py seed data",
+          "nodeRefs": [
+            "jorge-quiroz",
+            "person-mónica-ríos",
+            "person-felipe-givovich-díaz",
+            "person-jorge-bravo-tamayo",
+            "person-paula-hurtado-edwards"
+          ]
+        },
+        {
+          "type": "NEW_FLAG",
+          "date": "2026-03-11",
+          "severity": "high",
+          "icon": "🚩",
+          "title": "Alerta detectada en Jorge Quiroz: COLLUSION_LINK",
+          "desc": "Se identificó indicador COLLUSION_LINK en el Ministro de Hacienda.",
+          "source": "Investigación periodística (CIPER, La Tercera, Contrapoder)",
+          "nodeRefs": [
+            "jorge-quiroz"
+          ]
+        },
+        {
+          "type": "NEW_FLAG",
+          "date": "2026-03-11",
+          "severity": "info",
+          "icon": "🚩",
+          "title": "Alerta detectada en Jorge Quiroz: GOV_CONTRACTOR",
+          "desc": "Se identificó indicador GOV_CONTRACTOR en el Ministro de Hacienda.",
+          "source": "Investigación periodística (CIPER, La Tercera, Contrapoder)",
+          "nodeRefs": [
+            "jorge-quiroz"
+          ]
+        },
+        {
+          "type": "NEW_FLAG",
+          "date": "2026-03-11",
+          "severity": "info",
+          "icon": "🚩",
+          "title": "Alerta detectada en Jorge Quiroz: ACTIVE_CONTRACT",
+          "desc": "Se identificó indicador ACTIVE_CONTRACT en el Ministro de Hacienda.",
+          "source": "Investigación periodística (CIPER, La Tercera, Contrapoder)",
+          "nodeRefs": [
+            "jorge-quiroz"
+          ]
+        },
+        {
+          "type": "NEW_FLAG",
+          "date": "2026-03-11",
+          "severity": "medium",
+          "icon": "🚩",
+          "title": "Alerta detectada en Jorge Quiroz: CORPORATE_RESTRUCTURING",
+          "desc": "Se identificó indicador CORPORATE_RESTRUCTURING en el Ministro de Hacienda.",
+          "source": "Investigación periodística (CIPER, La Tercera, Contrapoder)",
+          "nodeRefs": [
+            "jorge-quiroz"
+          ]
+        },
+        {
+          "type": "NEW_FLAG",
+          "date": "2026-03-11",
+          "severity": "high",
+          "icon": "🚩",
+          "title": "Alerta detectada en Jorge Quiroz: REVOLVING_DOOR",
+          "desc": "Se identificó indicador REVOLVING_DOOR en el Ministro de Hacienda.",
+          "source": "Investigación periodística (CIPER, La Tercera, Contrapoder)",
+          "nodeRefs": [
+            "jorge-quiroz"
+          ]
         }
       ]
     },
     {
       "week": "2026-W01",
       "events": [
+        {
+          "type": "CORPORATE_EVENT",
+          "date": "2026-01-01",
+          "severity": "medium",
+          "icon": "🏢",
+          "title": "Reestructuración corporativa detectada — QA Consultores",
+          "desc": "En agosto 2025, las empresas de Quiroz fueron renombradas durante la campaña electoral: Quiroz y Asociados SA → QA Consultores; Quiroz y Asociados Consultores → QYA Consultores. En enero 2026, Quiroz y Paula Hurtado salen de QYA. Socios Givovich (58.81%) y Bravo (41.19%) quedan.",
+          "source": "La Tercera, Contrapoder Chile",
+          "nodeRefs": [
+            "jorge-quiroz",
+            "rut-969531208"
+          ]
+        },
         {
           "type": "CORPORATE_EVENT",
           "date": "2026-01-01",
