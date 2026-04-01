@@ -1,0 +1,18 @@
+{
+  "fetchedAt": "2026-04-01T10:02:56.675949+00:00",
+  "totalRuts": 1,
+  "foundCount": 0,
+  "companies": {
+    "96953120-8": {
+      "rut": "96953120-8",
+      "razon_social": "",
+      "actividad": "",
+      "codigo_actividad": "",
+      "tamano": "",
+      "region": "",
+      "comuna": "",
+      "direccion": "",
+      "not_found": true
+    }
+  }
+}
